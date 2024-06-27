@@ -15,4 +15,5 @@ This is a beginner-friendly project implemented in Python. The game generates a 
    
 2. **Run the Game:**
  ```
-   python number_guessing_game.py
+  python winning_num.py
+
